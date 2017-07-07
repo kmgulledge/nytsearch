@@ -17,3 +17,9 @@
 .form-group {
 	width: 1100px;
 }
+
+/*Added by Corey*/
+
+.article {
+	border: 2px black solid;
+}
