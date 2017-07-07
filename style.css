@@ -1,0 +1,19 @@
+.container {
+	width: 100%;
+	font-style: 
+}
+
+.jumbotron {
+	background-color: #0000A0! important;
+	text-align: center;
+	color: white! important;
+}
+
+.panel-heading {
+	background-color: #0000A0! important; 
+	color: white! important;
+}
+
+.form-group {
+	width: 1100px;
+}
